@@ -21,118 +21,58 @@
 ------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------
 
-## <a name="sommaire"></a> Progression Terminale NSI (ordre chronologique)
+## <a name="sommaire"></a> Progression Terminale NSI
 ------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------
 
-### Chapitre 1 : PROGRAMMATION - PROJET - DONNEES
-#### 1.1 initiation à [Python 3]
- * console - opération - type
- * if/while/for
- * fonction - graphique - test
- * bibliothèque - module
+### Chapitre 1 : HISTOIRE DE L'INFORMATIQUE
+#### 1.1 
+ * 
 
-#### 1.2 Programmation pour le Web
-##### 1.2.1 HTLM
- * présentation du html
- * programmation en html (les bases dans le détail)
- * [mémo html](https://github.com/Math13Net/NSI-premiere/blob/master/html%20resume.png)
- 
-##### 1.2.2 CSS
- * présentation du css
- * programmation en css (les bases dans le détail)
- * [mémo css](https://github.com/Math13Net/NSI-premiere/blob/master/css%20resume.pdf)
- 
-##### 1.2.3 JavaScript
- * présentation rapide du javascript
- * programmation rapide en javascript (restons simple)
- * [mémo javascript](https://github.com/Math13Net/NSI-premiere/blob/master/javascript%20resume.pdf)
- 
-##### 1.2.4 Mon premier Site Web
- * [exemple de travail élève](https://SITE-WEB-PROJET-NSI--math13net.repl.co)
-
-#### 1.3 Latex (optionnel - non fait cette année)
- * [document scientifique sous latex](https://v2.overleaf.com/login)
- * [aide mémoire latex](https://fr.wikipedia.org/wiki/Aide:Formules_TeX)
- 
-#### 1.4 Représentation des Données
- ##### 1.4.1 Types simples
-  * nombres entiers, relatifs en base 2 (représentation machine)
-  * booléens
-  * nombres réels
-  * textes
- ##### 1.4.2. Types construits
-  * n-uplets
-  * listes
-  * tableaux et matrices
-  * dictionnaires
-  * traitement de données en tables (travail autour des fichiers .csv)
-  [fichier python](https://github.com/Math13Net/NSI-premiere/blob/master/traitement-de-donnees-en-table.zip)
-  [fiche élève](https://github.com/Math13Net/NSI-premiere/blob/master/Ex%205%20-%20NSI%201%C2%B0%20_%20TDD%20-%20Fiche%20%C3%A9l%C3%A8ve.pdf)
-  
- ##### 1.4.3 Mon premier jeu sous Python : RPG Raspberry Pi
- * [exemple de travail élève par équipe projet](https://repl.it/@Math13Net/RPG-game-eleve)
  
 ------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------
 
-### Chapitre 2 : MACHINES ET RESEAUX
+### Chapitre 2 : STRUCTURES DE DONNEES
 
 #### 2.1 Machines
 
 ##### 2.1.1 HardWare et Langage Bas niveau
   * architecture matérielle - [VirtualBox sous linux](https://www.virtualbox.org/wiki/Downloads) : du disque dur au fichier (non fait cette année)
-  * représentation des textes en machine (ascii - unicode - utf-8 ...) 
-  * circuit logique - [portes logiques](https://github.com/Math13Net/NSI-premiere/blob/master/porte%20logique.pdf) - [simulateur Labri](http://dept-info.labri.fr/ENSEIGNEMENT/archi/circuits/blank-teacher.html) - [circuitverse](https://circuitverse.org/)
-  * langage machine - [simulateur Y86](http://dept-info.labri.fr/ENSEIGNEMENT/archi/js-y86/)
-  
-##### 2.1.2 Entracte : espace détente  
-  * activité ludique : [concours Castor Informatique](https://concours.castor-informatique.fr/)
-  * projet Raspberry : introduction au module Camera
-  * projet Raspberry : projet selfies avec MineCraft
-  
-##### 2.1.2 Systèmes d’exploitation et Terminal
-  * Linux / Raspian
-  * Windows
-  
-##### 2.1.3 Arduino et Raspberry Pi
- * présentation et [différence](https://www.youtube.com/watch?v=c1R4TH6U9rc)
- * [Mon premier projet sous Arduino](https://www.youtube.com/playlist?list=PL0YfVdOGWSEQCIEZj_-dFsnClqyxqDmA_)
- * [Mon premier projet sous Raspberry Pi](https://www.youtube.com/watch?v=Ew54Q28Gk_Y)
- 
-##### 2.1.4 Créer un serveur web et son site avec un Raspberry Pi
- * [le projet](https://projects.raspberrypi.org/en/projects/python-web-server-with-flask)
- * [exemple de travail élève]()
 
-#### 2.2 Communication et Architecture Réseau
- * modèle OSI et protocole TCP/IP
- * masque et adresse IP
- * [Wireshark](https://www.wireshark.org/) : analyse d'une trame ping
- * [Cisco Pasket Tracer](https://www.netacad.com/fr/courses/packet-tracer) : connection de deux réseaux via un router
-
-#### 2.3 Interactions sur le Web
- * repère - hypertexte - interactions avec HTML et [JavaScript](https://repl.it/)
- * requête HTTP - formulaires dans une page Web
- * [Node-Red](https://nodered.org/) - Mon premier flow
 
 ------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------
 
-### Chapitre 3 : ALGORITHMES
+### Chapitre 3 : BASE DE DONNEES
 
 #### 3.1 Algorithmes 1
  * les outils
- * validité et coût
- * parcours séquentiel
- * recherche dichotomique
-
-#### 3.2 Algorithmes 2
- * algorithmes de tri
- * algorithme des plus proches voisins
- * algorithmes gloutons
 
 ------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------
+
+
+### Chapitre 4 :ARCHITECTURES MATERIELLES, SYSTEME D'EXPLOITATION ET RESEAUX
+
+#### 4.1 Algorithmes 1
+ * les outils
+
+------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------
+
+
+### Chapitre 5 : LANGAGES ET PROGRAMMATION
+
+#### 5.1 Algorithmes 1
+ * les outils
+
+------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------
+
+
+
+
 
 
 ## <a name="projet"></a> Projets pour le NSI
