@@ -1,4 +1,4 @@
-# NSI-terminale - Lycée Pré de Cordy - Sarlat - 2020/2021
+# NSI-terminale - Lycée Jean Monnet - Montpellier - 2022/2023
 
 [Magic Problem Solver Algorithm ;))](https://proftomcrick.com/2011/04/26/feynman-problem-solving-algorithm/)
 
@@ -205,9 +205,9 @@
 
 * __condition de l'épreuve__ : 3h30 écrit et 1h de pratique
 
-* __notation__ : (pas encore sorti)
+* __notation__ : à préciser
 
-* __sujet 0__ :  (pas encore sorti)
+* __sujet 0__ :  à préciser
 
 
 ------------------------------------------------------------------------------------------------
