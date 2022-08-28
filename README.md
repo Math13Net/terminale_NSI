@@ -4,7 +4,7 @@
 
 <a href="https://www.youtube.com/watch?v=gpJvvH8JFn4" target="_blank"><img src="https://github.com/Math13Net/NSI-premiere/blob/master/nsi.jpg" alt="NSI Première" width="120" height="90" border="10" /></a>
 
-## ❤️ [Présentation de l'option NSI](https://github.com/Math13Net/NSI-premiere/blob/master/Pr%C3%A9sentation%20NSI.pdf)
+## ❤️ [Présentation de l'option NSI](https://youtu.be/bH_zIqCe6Ks)
 
 ## 🌈 [Programme officiel BO NSI Terminale](https://cache.media.education.gouv.fr/file/SPE8_MENJ_25_7_2019/93/3/spe247_annexe_1158933.pdf)
 
