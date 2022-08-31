@@ -39,10 +39,10 @@
 
 ### Chapitre 1 : PROGRAMMATION
 * __1 : [récursivité]()__
-#### 2 : [module]()
-#### 3 : [programmation objet]()
-#### 4 : [codage]()
-#### 5 : [programmation fonctionnelle]()
+* __2 : [module]()__
+* __3 : [programmation objet]()__
+* __4 : [codage]()__
+* __5 : [programmation fonctionnelle]()__
 
 ### Chapitre 2 : [ALGORITHMIQUE](https://sites.google.com/view/nsi-algorithmique/accueil)
 
