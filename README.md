@@ -49,7 +49,7 @@
 
 * __condition de l'épreuve__ : 3h30 écrit et 1h de pratique
 
-* __notation__ : à préciser
+* __notation__ : écrit sur 12 pts + pratique sur 8 pts = note sur 20 
 
 * __[sujet/corrigé BAC NSI précédent : épreuve écrite](https://kxs.fr/sujets/terminale-ecrit)__
 
