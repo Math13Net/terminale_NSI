@@ -51,8 +51,9 @@
 
 * __notation__ : à préciser
 
-* __[sujet et corrigé BAC précédant en NSI](https://kxs.fr/sujets/terminale-pratique)__
+* __[sujet/corrigé BAC NSI précédent : épreuve écrite](https://kxs.fr/sujets/terminale-ecrit)__
 
+* __[sujet/corrigé BAC NSI précédent : épreuve pratique](https://kxs.fr/sujets/terminale-pratique)__
 
 ------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------
