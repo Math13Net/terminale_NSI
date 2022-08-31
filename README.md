@@ -6,7 +6,7 @@
 
 ## 🚀 [Cours NSI terminale 2022-2023](#cours)
 
-## 🚀 [Corrigé des ex NSI terminale 2022-2023](#ex)
+## 🎃 [Corrigé des ex NSI terminale 2022-2023](#ex)
 
 ## ❤️ [Présentation de l'option NSI](https://youtu.be/bH_zIqCe6Ks)
 
@@ -18,7 +18,7 @@
 
 ## 📜 [Références](#reference)
 
-## 📜 [outil](#outil)
+## 🔑 [outil](#outil)
 
 ## 🔐 WARNING : document under LICENCE CC ![Licence CC](https://github.com/Math13Net/NSI-premiere/blob/master/licence%20CC.png)
 
