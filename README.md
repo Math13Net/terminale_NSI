@@ -39,7 +39,7 @@
 
 ### Chapitre 1 : PROGRAMMATION
 * __1 : [récursivité](https://github.com/Math13Net/terminale_NSI/blob/master/recursivite.ipynb)__
-* __2 : [module]()__
+* __2 : [module Erreur Exception]()__
 * __3 : [programmation objet]()__
 * __4 : [codage]()__
 * __5 : [programmation fonctionnelle]()__
@@ -86,21 +86,19 @@
 
 ## <a name="reference"></a> 5. Références exploitées
 
-### 5.1. Livres
+### 5.1. Livre
   * [NSI Terminale - Serge Bays](https://www.editions-ellipses.fr/accueil/14459-26812-specialite-numerique-et-sciences-informatiques-terminale-2e-edition-9782340071209.html#/1-format_disponible-broche)
-  * [NSI Terminale - Balabonski, Conchon, Filliâtre, Nguyen](https://www.amazon.fr/Sp%C3%A9cialit%C3%A9-Num%C3%A9rique-sciences-informatiques-programmes/dp/2340038553/ref=sr_1_1?crid=1YAV11KE6OPY9&keywords=num%C3%A9rique+et+sciences+informatiques+ellipses&qid=1661946611&sprefix=%2Caps%2C58&sr=8-1)
-  * [Python](https://www.editions-ellipses.fr/programmation-facile-avec-python-p-10176.html)
+  * [NSI Terminale - Balabonski, Conchon, Filliâtre, Nguyen](https://www.nsi-terminale.fr/)
   * [Python beginner - john hunt](https://link.springer.com/book/10.1007/978-3-030-20290-3)
   * [Python advanced - john hunt](https://link.springer.com/book/10.1007/978-3-030-25943-3)  
   
 
-### 5.2. Vidéos  
+### 5.2. Vidéo
   * [Algorithms in Motion - Beau carnes](https://www.manning.com/livevideo/algorithms-in-motion)
   * [An Introduction to Web Development in HTML, CSS, and JavaScript - Camryn Williams, Cassidy Williams](https://www.oreilly.com/library/view/an-introduction-to/9781491923320/)
   * [A beginner's guide to linux - Eduonix](https://github.com/PacktPublishing/A-Beginners-Guide-to-Linux)
 
-### 5.3. Sites
- * [Site du livre NSI Terminale - Balabonski, Conchon, Filliâtre, Nguyen](https://www.nsi-terminale.fr/)
+### 5.3. Site
  * [Site de David Roche](https://pixees.fr/informatiquelycee/n_site/)
  * [Math93.com NSI](https://www.math93.com/lycee/nsi-1ere.html)
  * [Débuter avec Python au lycée](http://python.lycee.free.fr/)
