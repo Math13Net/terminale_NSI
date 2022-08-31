@@ -51,7 +51,7 @@
 
 * __notation__ : à préciser
 
-* __sujet et corrigé BAC précédant en NSI__ :  à préciser
+* __[sujet et corrigé BAC précédant en NSI](https://kxs.fr/sujets/terminale-pratique)__
 
 
 ------------------------------------------------------------------------------------------------
