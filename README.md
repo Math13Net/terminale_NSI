@@ -38,7 +38,7 @@
 ------------------------------------------------------------------------------------------------
 
 ### Chapitre 1 : PROGRAMMATION
-* __1 : [récursivité]()__
+* __1 : [récursivité](https://github.com/Math13Net/terminale_NSI/blob/master/recursivite.ipynb)__
 * __2 : [module]()__
 * __3 : [programmation objet]()__
 * __4 : [codage]()__
