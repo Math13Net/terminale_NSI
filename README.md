@@ -100,6 +100,7 @@
   * [A beginner's guide to linux - Eduonix](https://github.com/PacktPublishing/A-Beginners-Guide-to-Linux)
 
 ### 5.3. Sites
+ * [Site du livre NSI Terminale - Balabonski, Conchon, Filliâtre, Nguyen](https://www.nsi-terminale.fr/)
  * [Site de David Roche](https://pixees.fr/informatiquelycee/n_site/)
  * [Math93.com NSI](https://www.math93.com/lycee/nsi-1ere.html)
  * [Débuter avec Python au lycée](http://python.lycee.free.fr/)
