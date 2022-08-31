@@ -4,7 +4,9 @@
 
 <a href="https://www.youtube.com/watch?v=gpJvvH8JFn4" target="_blank"><img src="https://github.com/Math13Net/NSI-premiere/blob/master/nsi.jpg" alt="NSI Première" width="120" height="90" border="10" /></a>
 
-## 🚀 [Cours NSI terminale 2022-2023](#sommaire)
+## 🚀 [Cours NSI terminale 2022-2023](#cours)
+
+## 🚀 [Ex NSI terminale 2022-2023](#ex)
 
 ## ❤️ [Présentation de l'option NSI](https://youtu.be/bH_zIqCe6Ks)
 
@@ -21,7 +23,7 @@
 ------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------
 
-## <a name="sommaire"></a> Progression Terminale NSI
+## <a name="cours"></a> Progression Terminale NSI
 ------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------
 
@@ -31,7 +33,7 @@
 ### Chapitre 4 : [ARCHITECTURES MATERIELLES, SYSTEME D'EXPLOITATION ET RESEAUX](https://sites.google.com/view/nsi-archi-syst-reseaux/asr)
 
 
-## <a name="sommaire"></a> Exercide Terminale NSI
+## <a name="ex"></a> Exercide Terminale NSI
 ------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------
 
