@@ -60,8 +60,8 @@
 ## <a name="reference"></a> 5. Références exploitées
 
 ### 5.1. Livres
-  * [NSI - Serge Bays](https://www.editions-ellipses.fr/spcialit-numrique-sciences-informatiques-premire-nouveaux-programmes-p-13318.html)
-  * [NSI - Balabonski, Conchon, Filliâtre, Nguyen](https://www.editions-ellipses.fr/spcialit-numrique-sciences-informatiques-premire-nouveaux-programmes-p-13318.html)
+  * [NSI - Serge Bays](https://www.editions-ellipses.fr/accueil/14459-26812-specialite-numerique-et-sciences-informatiques-terminale-2e-edition-9782340071209.html#/1-format_disponible-broche)
+  * [NSI - Balabonski, Conchon, Filliâtre, Nguyen](https://www.amazon.fr/Sp%C3%A9cialit%C3%A9-Num%C3%A9rique-sciences-informatiques-programmes/dp/2340038553/ref=sr_1_1?crid=1YAV11KE6OPY9&keywords=num%C3%A9rique+et+sciences+informatiques+ellipses&qid=1661946611&sprefix=%2Caps%2C58&sr=8-1)
   * [Python](https://www.editions-ellipses.fr/programmation-facile-avec-python-p-10176.html)
 
 ### 5.2. Vidéos  
