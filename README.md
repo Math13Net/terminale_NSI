@@ -6,7 +6,7 @@
 
 ## 🚀 [Cours NSI terminale 2022-2023](#cours)
 
-## 🚀 [Ex NSI terminale 2022-2023](#ex)
+## 🚀 [Corrigé des ex NSI terminale 2022-2023](#ex)
 
 ## ❤️ [Présentation de l'option NSI](https://youtu.be/bH_zIqCe6Ks)
 
