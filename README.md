@@ -31,6 +31,30 @@
 ### Chapitre 4 : [ARCHITECTURES MATERIELLES, SYSTEME D'EXPLOITATION ET RESEAUX](https://sites.google.com/view/nsi-archi-syst-reseaux/asr)
 
 
+## <a name="sommaire"></a> Exercide Terminale NSI
+------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------
+
+### Chapitre 1 : PROGRAMMATION
+#### 1 : [récursivité]()
+#### 2 : [module]()
+#### 3 : [programmation objet]()
+#### 4 : [codage]()
+#### 5 : [programmation fonctionnelle]()
+
+### Chapitre 2 : [ALGORITHMIQUE](https://sites.google.com/view/nsi-algorithmique/accueil)
+
+
+
+### Chapitre 3 : [BASE DE DONNEES](https://sites.google.com/view/nsi-bdd/accueil)
+
+
+
+### Chapitre 4 : [ARCHITECTURES MATERIELLES, SYSTEME D'EXPLOITATION ET RESEAUX](https://sites.google.com/view/nsi-archi-syst-reseaux/asr)
+
+
+
+
 
 ------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------
@@ -64,6 +88,9 @@
   * [NSI Terminale - Serge Bays](https://www.editions-ellipses.fr/accueil/14459-26812-specialite-numerique-et-sciences-informatiques-terminale-2e-edition-9782340071209.html#/1-format_disponible-broche)
   * [NSI Terminale - Balabonski, Conchon, Filliâtre, Nguyen](https://www.amazon.fr/Sp%C3%A9cialit%C3%A9-Num%C3%A9rique-sciences-informatiques-programmes/dp/2340038553/ref=sr_1_1?crid=1YAV11KE6OPY9&keywords=num%C3%A9rique+et+sciences+informatiques+ellipses&qid=1661946611&sprefix=%2Caps%2C58&sr=8-1)
   * [Python](https://www.editions-ellipses.fr/programmation-facile-avec-python-p-10176.html)
+  * [Python beginner - john hunt](https://link.springer.com/book/10.1007/978-3-030-20290-3)
+  * [Python advanced - john hunt](https://link.springer.com/book/10.1007/978-3-030-25943-3)  
+  
 
 ### 5.2. Vidéos  
   * [Algorithms in Motion - Beau carnes](https://www.manning.com/livevideo/algorithms-in-motion)
