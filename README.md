@@ -40,7 +40,7 @@
 
 ### Chapitre 1 : PROGRAMMATION
 * __1 : [récursivité](https://github.com/Math13Net/terminale_NSI/blob/master/recursivite.ipynb)__
-* __2 : [module Erreur Exception]()__
+* __2 : [module Erreur Exception](https://github.com/Math13Net/terminale_NSI/blob/master/module_erreur_exception.ipynb)__
 * __3 : [programmation objet]()__
 * __4 : [codage]()__
 * __5 : [programmation fonctionnelle]()__
