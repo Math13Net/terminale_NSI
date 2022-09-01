@@ -37,7 +37,6 @@
 ------------------------------------------------------------------------------------------------
 
 ## <a name="ex"></a> Exercide Terminale NSI
-------------------------------------------------------------------------------------------------
 
 ### Chapitre 1 : PROGRAMMATION
 * __1 : [récursivité](https://github.com/Math13Net/terminale_NSI/blob/master/recursivite.ipynb)__
@@ -71,7 +70,6 @@
 ------------------------------------------------------------------------------------------------
 
 ## <a name="bac"></a> Modalité et épreuve de bac spé NSI
-------------------------------------------------------------------------------------------------
 
 ### [Epreuve bac spé NSI poursuivie en Terminale](https://www.education.gouv.fr/pid285/bulletin_officiel.html?cid_bo=149244)
 * [Programme NSI Terminale](https://cache.media.education.gouv.fr/file/SPE8_MENJ_25_7_2019/93/3/spe247_annexe_1158933.pdf)
@@ -88,7 +86,6 @@
 ------------------------------------------------------------------------------------------------
 
 ## <a name="reference"></a> 5. Références exploitées
-------------------------------------------------------------------------------------------------
 
 ### 5.1. Livre
   * [NSI Terminale - Serge Bays](https://www.editions-ellipses.fr/accueil/14459-26812-specialite-numerique-et-sciences-informatiques-terminale-2e-edition-9782340071209.html#/1-format_disponible-broche)
@@ -116,8 +113,7 @@
 ------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------
 
-## <a name="reference"></a> 5. Outils exploitées
-------------------------------------------------------------------------------------------------
+## <a name="reference"></a> 6. Outils exploitées
 
  * [repl.it](https://replit.com/)
  * [anaconda](https://www.anaconda.com/products/distribution)
