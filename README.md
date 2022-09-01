@@ -26,7 +26,6 @@
 ------------------------------------------------------------------------------------------------
 
 ## <a name="cours"></a> Cours Terminale NSI
-------------------------------------------------------------------------------------------------
 
 ### Chapitre 1 : [PROGRAMMATION](https://sites.google.com/view/nsi-programmation/accueil)
 ### Chapitre 2 : [ALGORITHMIQUE](https://sites.google.com/view/nsi-algorithmique/accueil)
