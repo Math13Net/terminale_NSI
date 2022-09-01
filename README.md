@@ -111,7 +111,7 @@
 ------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------
 
-## <a name="reference"></a> 8. Outils exploitées
+## <a name="outil"></a> 8. Outils exploitées
 
  * [repl.it](https://replit.com/)
  * [anaconda](https://www.anaconda.com/products/distribution)
