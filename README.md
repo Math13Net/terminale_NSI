@@ -4,28 +4,28 @@
 
 <a href="https://www.youtube.com/watch?v=gpJvvH8JFn4" target="_blank"><img src="https://github.com/Math13Net/NSI-premiere/blob/master/nsi.jpg" alt="NSI Première" width="120" height="90" border="10" /></a>
 
-## 🚀 [Cours NSI terminale 2022-2023](#cours)
+## 🚀 [1. Cours NSI terminale 2022-2023](#cours)
 
-## 🎃 [Corrigé des ex NSI terminale 2022-2023](#ex)
+## 🎃 [2. Corrigé des ex NSI terminale 2022-2023](#ex)
 
-## ❤️ [Présentation de l'option NSI](https://youtu.be/bH_zIqCe6Ks)
+## ❤️ [3. Présentation de l'option NSI](https://youtu.be/bH_zIqCe6Ks)
 
-## 🌈 [Programme officiel BO NSI Terminale](https://cache.media.education.gouv.fr/file/SPE8_MENJ_25_7_2019/93/3/spe247_annexe_1158933.pdf)
+## 🌈 [4. Programme officiel BO NSI Terminale](https://cache.media.education.gouv.fr/file/SPE8_MENJ_25_7_2019/93/3/spe247_annexe_1158933.pdf)
 
-## 🔥 [Modalité et épreuve de bac spé NSI](#bac)
+## 🔥 [5. Modalité et épreuve de bac spé NSI](#bac)
 
-## 👷 [Projets pour le NSI terminale](#projet)
+## 👷 [6. Projets pour le NSI terminale](#projet)
 
-## 📜 [Références](#reference)
+## 📜 [7. Références](#reference)
 
-## 🔑 [Outils utilisés](#outil)
+## 🔑 [8. Outils utilisés](#outil)
 
 ## 🔐 WARNING : document under LICENCE CC ![Licence CC](https://github.com/Math13Net/NSI-premiere/blob/master/licence%20CC.png)
 
 ------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------
 
-## <a name="cours"></a> Cours Terminale NSI
+## <a name="cours"></a> 1. Cours Terminale NSI
 
 ### Chapitre 1 : [PROGRAMMATION](https://sites.google.com/view/nsi-programmation/accueil)
 ### Chapitre 2 : [ALGORITHMIQUE](https://sites.google.com/view/nsi-algorithmique/accueil)
@@ -36,7 +36,7 @@
 ------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------
 
-## <a name="ex"></a> Exercide Terminale NSI
+## <a name="ex"></a> 2. Exercide Terminale NSI
 
 ### Chapitre 1 : PROGRAMMATION
 * __1 : [récursivité](https://github.com/Math13Net/terminale_NSI/blob/master/recursivite.ipynb)__
@@ -57,19 +57,10 @@
 
 
 
-
-
-------------------------------------------------------------------------------------------------
-------------------------------------------------------------------------------------------------
-## <a name="projet"></a> Projets pour le NSI
-
-
-
-
 ------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------
 
-## <a name="bac"></a> Modalité et épreuve de bac spé NSI
+## <a name="bac"></a> 5. Modalité et épreuve de bac spé NSI
 
 ### [Epreuve bac spé NSI poursuivie en Terminale](https://www.education.gouv.fr/pid285/bulletin_officiel.html?cid_bo=149244)
 * [Programme NSI Terminale](https://cache.media.education.gouv.fr/file/SPE8_MENJ_25_7_2019/93/3/spe247_annexe_1158933.pdf)
@@ -82,24 +73,31 @@
 
 * __[sujet/corrigé BAC NSI précédent : épreuve pratique](https://kxs.fr/sujets/terminale-pratique)__
 
+
+------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------
+## <a name="projet"></a> 6. Projets pour le NSI
+
+
+
 ------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------
 
-## <a name="reference"></a> 5. Références exploitées
+## <a name="reference"></a> 7. Références exploitées
 
-### 5.1. Livre
+### 7.1. Livre
   * [NSI Terminale - Serge Bays](https://www.editions-ellipses.fr/accueil/14459-26812-specialite-numerique-et-sciences-informatiques-terminale-2e-edition-9782340071209.html#/1-format_disponible-broche)
   * [NSI Terminale - Balabonski, Conchon, Filliâtre, Nguyen](https://www.nsi-terminale.fr/)
   * [Python beginner - john hunt](https://link.springer.com/book/10.1007/978-3-030-20290-3)
   * [Python advanced - john hunt](https://link.springer.com/book/10.1007/978-3-030-25943-3)  
   
 
-### 5.2. Vidéo
+### 7.2. Vidéo
   * [Algorithms in Motion - Beau carnes](https://www.manning.com/livevideo/algorithms-in-motion)
   * [An Introduction to Web Development in HTML, CSS, and JavaScript - Camryn Williams, Cassidy Williams](https://www.oreilly.com/library/view/an-introduction-to/9781491923320/)
   * [A beginner's guide to linux - Eduonix](https://github.com/PacktPublishing/A-Beginners-Guide-to-Linux)
 
-### 5.3. Site
+### 7.3. Site
  * [Site de David Roche](https://pixees.fr/informatiquelycee/n_site/)
  * [Math93.com NSI](https://www.math93.com/lycee/nsi-1ere.html)
  * [Débuter avec Python au lycée](http://python.lycee.free.fr/)
@@ -107,13 +105,13 @@
  * [Préparation Capès Math-Info de Lyon](https://perso.liris.cnrs.fr/nicolas.pronost/UCBL/CapesInfo/#ressources)
  * [Naturel et Chaud](https://github.com/NaturelEtChaud/NSI-Terminale)
 
-### 5.4. Délivrables Formation Université de Bordeaux
+### 7.4. Délivrables Formation Université de Bordeaux
  * [DIU EIL - Enseigner l'Informatique au Lycée](https://moodle1.u-bordeaux.fr/course/view.php?id=4719)
 
 ------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------
 
-## <a name="reference"></a> 6. Outils exploitées
+## <a name="reference"></a> 8. Outils exploitées
 
  * [repl.it](https://replit.com/)
  * [anaconda](https://www.anaconda.com/products/distribution)
