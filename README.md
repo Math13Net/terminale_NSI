@@ -36,7 +36,7 @@
 ------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------
 
-## <a name="ex"></a> 2. Exercide Terminale NSI
+## <a name="ex"></a> 2. Exercice Terminale NSI
 
 ### Chapitre 1 : PROGRAMMATION
 * __1 : [récursivité](https://github.com/Math13Net/terminale_NSI/blob/master/recursivite.ipynb)__
