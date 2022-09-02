@@ -98,7 +98,7 @@
   * [A beginner's guide to linux - Eduonix](https://github.com/PacktPublishing/A-Beginners-Guide-to-Linux)
 
 ### 7.3. Site
- * [Site de David Roche](https://pixees.fr/informatiquelycee/n_site/)
+ * [Site de David Roche](https://pixees.fr/informatiquelycee/)
  * [Math93.com NSI](https://www.math93.com/lycee/nsi-1ere.html)
  * [Débuter avec Python au lycée](http://python.lycee.free.fr/)
  * [Site d'Olivier Schmitt](http://olivierschmitt.fr/)
