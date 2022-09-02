@@ -104,6 +104,7 @@
  * [Site d'Olivier Schmitt](http://olivierschmitt.fr/)
  * [Préparation Capès Math-Info de Lyon](https://perso.liris.cnrs.fr/nicolas.pronost/UCBL/CapesInfo/#ressources)
  * [Naturel et Chaud](https://github.com/NaturelEtChaud/NSI-Terminale)
+ * [irem info bordeaux](https://www.labri.fr/perso/baudon/IremInfo/pmwiki.php/Main/HomePage)
 
 ### 7.4. Délivrables Formation Université de Bordeaux
  * [DIU EIL - Enseigner l'Informatique au Lycée](https://moodle1.u-bordeaux.fr/course/view.php?id=4719)
