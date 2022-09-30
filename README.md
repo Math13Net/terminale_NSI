@@ -44,7 +44,7 @@
 * __1 : [récursivité](https://github.com/Math13Net/terminale_NSI/blob/master/recursivite.ipynb)__
 * __2 : [module Erreur Exception](https://github.com/Math13Net/terminale_NSI/blob/master/module_erreur_exception.ipynb)__
 * __3 : [programmation objet](https://github.com/Math13Net/terminale_NSI/blob/master/programmation_objet.ipynb)__
-* __4 : [codage]()__
+* __4 : [codage](https://github.com/Math13Net/terminale_NSI/blob/master/codage.ipynb)__
 * __5 : [programmation fonctionnelle]()__
 
 ### Chapitre 2 : [ALGORITHMIQUE](https://sites.google.com/view/nsi-algorithmique/accueil)
