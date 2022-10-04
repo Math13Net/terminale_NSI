@@ -10,7 +10,7 @@
 
 ## ❤️ [3. Présentation de l'option NSI](https://youtu.be/bH_zIqCe6Ks)
 
-## 🌈 [4. Programme officiel BO NSI Terminale](https://cache.media.education.gouv.fr/file/SPE8_MENJ_25_7_2019/93/3/spe247_annexe_1158933.pdf)
+## 🌈 [4. Programme officiel BO NSI Terminale](#programme)
 
 ## 🔑 [5. Devoir surveillé](#devoir)
 
@@ -56,6 +56,17 @@
 
 
 ### Chapitre 4 : [ARCHITECTURES MATERIELLES, SYSTEME D'EXPLOITATION ET RESEAUX](https://sites.google.com/view/nsi-archi-syst-reseaux/asr)
+
+
+------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------
+
+## <a name="programme"></a> 4. Programme officiel BO NSI Terminale
+
+* [programme offitiel](https://cache.media.education.gouv.fr/file/SPE8_MENJ_25_7_2019/93/3/spe247_annexe_1158933.pdf)
+* [complément 1 - 2022 / 2023](https://www.education.gouv.fr/bo/22/Hebdo36/MENE2226770N.htm)
+* [complément 2 - 2022 / 2023](https://www.education.gouv.fr/bo/22/Hebdo36/MENE2227884N.htm)
+
 
 ------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------
