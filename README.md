@@ -10,7 +10,7 @@
 
 ## ❤️ [3. Présentation de l'option NSI](https://youtu.be/bH_zIqCe6Ks)
 
-## 🌈 [4. Programme officiel BO NSI Terminale](#programme)
+## 🌈 [4. Planning bac et Programme officiel BO NSI Terminale](#programme)
 
 ## 🔑 [5. Devoir surveillé](#devoir)
 
@@ -82,7 +82,7 @@
 
 ## <a name="bac"></a> 6. Modalité et épreuve de bac spé NSI
 
-### planning :
+### Planning Bac :
 #### bac blanc jeudi 12 janvier 2023 et vendredi matin 13 janvier 2023
 #### bac EDS terminale : 20 et 21 mars 2023
 
