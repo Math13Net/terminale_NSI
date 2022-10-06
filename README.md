@@ -82,6 +82,10 @@
 
 ## <a name="bac"></a> 6. Modalité et épreuve de bac spé NSI
 
+### planning :
+#### bac blanc jeudi 12 janvier 2023 et vendredi matin 13 janvier 2023
+#### bac EDS terminale : 20 et 21 mars 2023
+
 ### [Epreuve bac spé NSI poursuivie en Terminale](https://www.education.gouv.fr/pid285/bulletin_officiel.html?cid_bo=149244)
 * [Programme NSI Terminale](https://cache.media.education.gouv.fr/file/SPE8_MENJ_25_7_2019/93/3/spe247_annexe_1158933.pdf)
 
