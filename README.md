@@ -133,11 +133,12 @@
  * [initiation à Python](https://fr.futurecoder.io/)
  * [e-nsi](https://e-nsi.gitlab.io/pratique/)
  * [ressources 1ere et tle](http://projet.eu.org/pedago/sin/NSI/)
+ * [api list under python](https://rapidapi.com/collection/list-of-python-apis)
 
 ### 8.4. Délivrables Formation Université de Bordeaux
  * [DIU EIL - Enseigner l'Informatique au Lycée](https://moodle1.u-bordeaux.fr/course/view.php?id=4719)
  * [introduction à python - cours Bordeaux](https://dept-info.labri.fr/ENSEIGNEMENT/INITINFO/initinfo/supports/Cours/poly.pdf)
- * [api list under python](https://rapidapi.com/collection/list-of-python-apis)
+
 
 ------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------
