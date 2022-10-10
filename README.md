@@ -149,8 +149,8 @@
  * [anaconda](https://www.anaconda.com/products/distribution)
  * [trinket](https://trinket.io/)
  * [google site](https://workspace.google.com/intl/fr/products/sites/?utm_source=google&utm_medium=cpc&utm_campaign=emea-fr-all-fr-dr-bkws-all-all-trial-e-t1-1011339&utm_content=text-ad-crnurturectrl-none-DEV_c-CRE_305816770508-ADGP_Hybrid%20%7C%20BKWS%20-%20EXA%20%7C%20Txt%20~%20Sites%20~%20General-KWID_43700037972997128-kwd-975450440-userloc_9055318&utm_term=KW_google%20site-g&ds_rl=1259922&ds_rl=1289227&gclid=EAIaIQobChMIorTokdzx-QIV8gUGAB3_0wMOEAAYASAAEgIu1_D_BwE&gclsrc=aw.ds)
- * [python tutor](https://pythontutor.com/visualize.html)
- * []()
+ * [python tutor - python visualization](https://pythontutor.com/visualize.html)
+ * [pandas tutor - data science vizualisation](https://pandastutor.com/)
 
 
 
