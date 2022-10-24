@@ -1,8 +1,10 @@
 # NSI-terminale
 [Magic Problem Solver Algorithm ;))](https://proftomcrick.com/2011/04/26/feynman-problem-solving-algorithm/)
 
+<p align="center">
 <a href="https://www.youtube.com/watch?v=gpJvvH8JFn4" target="_blank"><img src="https://github.com/Math13Net/NSI-premiere/blob/master/nsi.jpg" alt="NSI Première" width="120" height="90" border="10" /></a>
-
+</p>
+ 
 ## 🚀 [1. Cours NSI terminale 2022-2023](#cours)
 
 ## 🎃 [2. Corrigé des ex NSI terminale 2022-2023](#ex)
