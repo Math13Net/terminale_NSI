@@ -52,7 +52,11 @@
 * __5 : [programmation fonctionnelle](https://github.com/Math13Net/terminale_NSI/blob/master/programmation_fonctionnelle.ipynb)__
 
 ### Chapitre 2 : [ALGORITHMIQUE](https://sites.google.com/view/nsi-algorithmique/accueil)
-
+* __6 : [liste chaînée](https://github.com/Math13Net/terminale_NSI/blob/master/liste_chainee.ipynb)__
+* __7 : [pile et file]()__
+* __8 : []()__
+* __9 : []()__
+* __10 : []()__
 
 
 ### Chapitre 3 : [BASE DE DONNEES](https://sites.google.com/view/nsi-bdd/accueil)
