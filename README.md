@@ -82,7 +82,8 @@
 ## <a name="devoir"></a> 5. DS NSI
 
 * [DS 1](https://github.com/Math13Net/terminale_NSI/blob/master/NSI_DS_01.pdf)
-* [DS 2]()
+* [DS 2](https://github.com/Math13Net/terminale_NSI/blob/master/NSI_DS_02.pdf)
+* [DS 3]()
 
 
 ------------------------------------------------------------------------------------------------
