@@ -53,7 +53,7 @@
 
 ### Chapitre 2 : [ALGORITHMIQUE](https://sites.google.com/view/nsi-algorithmique/accueil)
 * __6 : [liste chaînée](https://github.com/Math13Net/terminale_NSI/blob/master/liste_chainee.ipynb)__
-* __7 : [pile et file]()__
+* __7 : [pile et file](https://github.com/Math13Net/terminale_NSI/blob/master/pile_file.ipynb)__
 * __8 : []()__
 * __9 : []()__
 * __10 : []()__
