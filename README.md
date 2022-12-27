@@ -33,6 +33,7 @@
 ### Chapitre 1 : [PROGRAMMATION](https://sites.google.com/view/nsi-programmation/accueil)
 ### Chapitre 2 : [ALGORITHMIQUE](https://sites.google.com/view/nsi-algorithmique/accueil)
 ### Chapitre 3 : [BASE DE DONNEES](https://sites.google.com/view/nsi-bdd/accueil)
+* __[cours et ex de sql - thomas nield](https://github.com/Math13Net/nsi_sql)__
 ### Chapitre 4 : [ARCHITECTURES MATERIELLES, SYSTEME D'EXPLOITATION ET RESEAUX](https://sites.google.com/view/nsi-archi-syst-reseaux/asr)
 #### :white_check_mark: [python tips](https://book.pythontips.com/en/latest/index.html#)
 #### :snake: [built-in python function](https://docs.python.org/3/library/functions.html)
@@ -58,9 +59,8 @@
 * __9 : []()__
 * __10 : []()__
 
-
 ### Chapitre 3 : [BASE DE DONNEES](https://sites.google.com/view/nsi-bdd/accueil)
-* __11 : [ex de sql](https://github.com/Math13Net/nsi_sql)__
+
 
 
 ### Chapitre 4 : [ARCHITECTURES MATERIELLES, SYSTEME D'EXPLOITATION ET RESEAUX](https://sites.google.com/view/nsi-archi-syst-reseaux/asr)
