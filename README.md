@@ -123,7 +123,8 @@
   * [NSI Terminale - Serge Bays](https://www.editions-ellipses.fr/accueil/14459-26812-specialite-numerique-et-sciences-informatiques-terminale-2e-edition-9782340071209.html#/1-format_disponible-broche)
   * [NSI Terminale - Balabonski, Conchon, Filliâtre, Nguyen](https://www.nsi-terminale.fr/)
   * [Python beginner - john hunt](https://link.springer.com/book/10.1007/978-3-030-20290-3)
-  * [Python advanced - john hunt](https://link.springer.com/book/10.1007/978-3-030-25943-3)  
+  * [Python advanced - john hunt](https://link.springer.com/book/10.1007/978-3-030-25943-3)
+  * [Getting Started with SQL - thomas nield](http://goo.gl/z3zG54)
   
 
 ### 8.2. Vidéo
