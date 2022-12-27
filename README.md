@@ -60,7 +60,7 @@
 
 
 ### Chapitre 3 : [BASE DE DONNEES](https://sites.google.com/view/nsi-bdd/accueil)
-
+* __11 : [ex de sql](https://github.com/Math13Net/nsi_sql)__
 
 
 ### Chapitre 4 : [ARCHITECTURES MATERIELLES, SYSTEME D'EXPLOITATION ET RESEAUX](https://sites.google.com/view/nsi-archi-syst-reseaux/asr)
