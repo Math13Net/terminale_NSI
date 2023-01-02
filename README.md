@@ -83,7 +83,8 @@
 
 * [DS 1](https://github.com/Math13Net/terminale_NSI/blob/master/NSI_DS_01.pdf)
 * [DS 2](https://github.com/Math13Net/terminale_NSI/blob/master/NSI_DS_02.pdf)
-* [DS 3]()
+* [DS 3](https://github.com/Math13Net/terminale_NSI/blob/master/NSI_DS_03.pdf)
+* [BB 1]()
 
 
 ------------------------------------------------------------------------------------------------
