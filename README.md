@@ -32,10 +32,10 @@
 
 ### Chapitre 1 : [PROGRAMMATION](https://sites.google.com/view/nsi-programmation/accueil)
 ### Chapitre 2 : [ALGORITHMIQUE](https://sites.google.com/view/nsi-algorithmique/accueil)
+#### :bird: [résumé - méthode de tri](https://github.com/Math13Net/terminale_NSI/blob/master/python_tri.pdf)
 ### Chapitre 3 : [BASE DE DONNEES](https://sites.google.com/view/nsi-bdd/accueil)
 * __[cours et ex de sql - thomas nield](https://github.com/Math13Net/nsi_sql)__
 ### Chapitre 4 : [ARCHITECTURES MATERIELLES, SYSTEME D'EXPLOITATION ET RESEAUX](https://sites.google.com/view/nsi-archi-syst-reseaux/asr)
-#### :bird: [résumé - méthode de tri](https://github.com/Math13Net/terminale_NSI/blob/master/python_tri.pdf)
 #### :white_check_mark: [python tips](https://book.pythontips.com/en/latest/index.html#)
 #### :snake: [built-in python function](https://docs.python.org/3/library/functions.html)
 #### :poop: [markdown emoji](https://dev.to/nikolab/complete-list-of-github-markdown-emoji-markup-5aia)
