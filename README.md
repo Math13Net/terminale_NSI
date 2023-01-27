@@ -109,6 +109,8 @@
 
 * __[sujet/corrigé BAC NSI précédent : épreuve pratique](https://kxs.fr/sujets/terminale-pratique)__
 
+* __[sujet bac 2023](https://github.com/Math13Net/terminale_NSI/blob/master/ECE_NSI.zip)__
+
 
 ------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------
