@@ -85,7 +85,7 @@
 * [DS 1](https://github.com/Math13Net/terminale_NSI/blob/master/NSI_DS_01.pdf)
 * [DS 2](https://github.com/Math13Net/terminale_NSI/blob/master/NSI_DS_02.pdf)
 * [DS 3](https://github.com/Math13Net/terminale_NSI/blob/master/NSI_DS_03.pdf)
-* [BB 1]()
+* [BB 1](https://github.com/Math13Net/terminale_NSI/blob/master/NSI_BB_1.pdf)
 
 
 ------------------------------------------------------------------------------------------------
@@ -110,6 +110,8 @@
 * __[sujet/corrigé BAC NSI précédent : épreuve pratique](https://kxs.fr/sujets/terminale-pratique)__
 
 * __[sujet bac 2023](https://github.com/Math13Net/terminale_NSI/blob/master/ECE_NSI.zip)__
+
+* __[sujet et corrigé bac 2023](https://glassus.github.io/terminale_nsi/T6_6_Epreuve_pratique/BNS_2023/)
 
 
 ------------------------------------------------------------------------------------------------
