@@ -113,8 +113,9 @@
 
 * __[sujet bac 2023](https://github.com/Math13Net/terminale_NSI/blob/master/ECE_NSI.zip)__
 
- <! --  __[sujet et corrigé bac 2023](https://glassus.github.io/terminale_nsi/T6_6_Epreuve_pratique/BNS_2023/)__ -->
-
+&#123;details>
+__[sujet et corrigé bac 2023](https://glassus.github.io/terminale_nsi/T6_6_Epreuve_pratique/BNS_2023/)__
+&#123;/details>
 
 ------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------
