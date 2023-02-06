@@ -113,9 +113,9 @@
 
 * __[sujet bac 2023](https://github.com/Math13Net/terminale_NSI/blob/master/ECE_NSI.zip)__
 
-* __[sujet 11](https://github.com/Math13Net/terminale_NSI/blob/master/23-NSI-11.pdf)
+* __[sujet 11](https://github.com/Math13Net/terminale_NSI/blob/master/23-NSI-11.pdf)__
 
-* __[sujet 13](https://github.com/Math13Net/terminale_NSI/blob/master/23-NSI-13.pdf)
+* __[sujet 13](https://github.com/Math13Net/terminale_NSI/blob/master/23-NSI-13.pdf)__
 
 
 
