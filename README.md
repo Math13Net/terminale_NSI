@@ -117,7 +117,7 @@
 
 * __[sujet 13](https://github.com/Math13Net/terminale_NSI/blob/master/23-NSI-13.pdf)__
 
-
+* __[sujet 23](https://github.com/Math13Net/terminale_NSI/blob/master/23-NSI-13.pdf)__
 
 
 ------------------------------------------------------------------------------------------------
