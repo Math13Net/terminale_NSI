@@ -113,11 +113,7 @@
 
 * __[sujet bac 2023](https://github.com/Math13Net/terminale_NSI/blob/master/ECE_NSI.zip)__
 
-* __[sujet 11](https://github.com/Math13Net/terminale_NSI/blob/master/23-NSI-11.pdf)__
-
-* __[sujet 13](https://github.com/Math13Net/terminale_NSI/blob/master/23-NSI-13.pdf)__
-
-* __[sujet 23](https://github.com/Math13Net/terminale_NSI/blob/master/23-NSI-13.pdf)__
+* __[sujet bac 2023 corrigé](https://glassus.github.io/terminale_nsi/T6_6_Epreuve_pratique/BNS_2023/)__
 
 
 ------------------------------------------------------------------------------------------------
@@ -157,7 +153,6 @@
  * [e-nsi](https://e-nsi.gitlab.io/pratique/)
  * [ressources 1ere et tle](http://projet.eu.org/pedago/sin/NSI/)
  * [api list under python](https://rapidapi.com/collection/list-of-python-apis)
- * [test](https://glassus.github.io/terminale_nsi/T6_6_Epreuve_pratique/BNS_2023/)
 
 ### 8.4. Délivrables Formation Université de Bordeaux
  * [DIU EIL - Enseigner l'Informatique au Lycée](https://moodle1.u-bordeaux.fr/course/view.php?id=4719)
