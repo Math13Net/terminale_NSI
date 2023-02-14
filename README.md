@@ -139,7 +139,7 @@
   * [Algorithms in Motion - Beau carnes](https://www.manning.com/livevideo/algorithms-in-motion)
   * [An Introduction to Web Development in HTML, CSS, and JavaScript - Camryn Williams, Cassidy Williams](https://www.oreilly.com/library/view/an-introduction-to/9781491923320/)
   * [A beginner's guide to linux - Eduonix](https://github.com/PacktPublishing/A-Beginners-Guide-to-Linux)
-  *[cours intéressant de nsi](https://www.youtube.com/@moocnsi/playlists)
+  * [cours intéressant de nsi](https://www.youtube.com/@moocnsi/playlists)
 
 ### 8.3. Site
  * [Site de David Roche](https://pixees.fr/informatiquelycee/)
