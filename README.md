@@ -122,8 +122,7 @@
 
 ### Cryptographie
 * __[caeser codage](https://docs.google.com/document/d/14CXLMQSbVzsOKUcmGZPGF0ujBorG0ZXzd22uwgeC2N8/edit?usp=sharing)__
-* __[hashing]()__
-#### [google knows hash 💀](https://md5calc.com/)
+* __[hashing]()__ [💥 google knows hash 💀](https://md5calc.com/)
 
 ------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------
