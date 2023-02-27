@@ -121,7 +121,8 @@
 ## <a name="projet"></a> 7. Projets pour le NSI
 
 ### Cryptographie
-* __[caeser codage revisité](https://docs.google.com/document/d/14CXLMQSbVzsOKUcmGZPGF0ujBorG0ZXzd22uwgeC2N8/edit?usp=sharing)__
+* __[caeser codage](https://docs.google.com/document/d/14CXLMQSbVzsOKUcmGZPGF0ujBorG0ZXzd22uwgeC2N8/edit?usp=sharing)__
+* __[hashing]()__
 
 ------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------
