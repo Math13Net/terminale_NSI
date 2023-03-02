@@ -98,7 +98,7 @@
 #### bac EDS terminale : 20 et 21 mars 2023
 #### [calendrier pedagogique jean monnet 2022 / 2023](https://github.com/Math13Net/terminale_NSI/blob/master/Calendrier%20p%C3%A9dagoiques%20_%20Dates%20importantes%202022%202023.pdf)
 #### bac épreuve écrite : lundi 20 mars et le mardi 21 mars 2023 de 14 h à 17 h 30 en métropole
-#### bac épreuve pratique : à une semaine près, même date
+#### bac épreuve pratique : lundi 27 mars
 
 ### [Epreuve bac spé NSI poursuivie en Terminale](https://www.education.gouv.fr/pid285/bulletin_officiel.html?cid_bo=149244)
 * [Programme NSI Terminale](https://cache.media.education.gouv.fr/file/SPE8_MENJ_25_7_2019/93/3/spe247_annexe_1158933.pdf)
