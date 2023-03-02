@@ -124,6 +124,18 @@
 * __[caeser codage](https://docs.google.com/document/d/14CXLMQSbVzsOKUcmGZPGF0ujBorG0ZXzd22uwgeC2N8/edit?usp=sharing)__
 * __[hashing]()__ [💥 google knows hash 💀](https://md5calc.com/) [✨ reverse md5 - lol 👍](https://md5.gromweb.com/)
 
+### Probabilités
+* __[]()__
+* __[]()__
+
+### Intelligence Artificielle
+* __[]()__
+* __[]()__
+
+### IoT avec un Raspberry Pi
+* __[]()__
+* __[]()__
+
 ------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------
 
