@@ -129,8 +129,8 @@
 * __[]()__
 
 ### Intelligence Artificielle
-* __[]()__
-* __[]()__
+* __[machine learnia - cours video](https://www.youtube.com/@MachineLearnia)__
+* __[module IA - poitiers](https://ww2.ac-poitiers.fr/math/spip.php?article1201)__
 
 ### IoT avec un Raspberry Pi
 * __[]()__
