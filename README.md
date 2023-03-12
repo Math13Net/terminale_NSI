@@ -143,7 +143,9 @@
 
 ### Approfondissement Python
 * __[]()__
-* __[la notion de décorateur](https://towardsdatascience.com/12-python-decorators-to-take-your-code-to-the-next-level-a910a1ab3e99)__
+* __[notion de décorateur](https://towardsdatascience.com/12-python-decorators-to-take-your-code-to-the-next-level-a910a1ab3e99)__
+* __[Traditional Versus Neural Metrics for Machine Translation Evaluation](https://towardsdatascience.com/traditional-versus-neural-metrics-for-machine-translation-evaluation-2931bd22fe61)__
+
 
 ### Approfondissement Algorithmique (cours algo L1)
 * __[]()__
