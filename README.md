@@ -125,9 +125,9 @@
 * __[hashing](https://docs.google.com/document/d/1NxBoFULbrdRWy1StOZabsvUuCX5TJXbeXqEyOhByjgU/edit?usp=sharing)__ [💥 google knows hash 💀](https://md5calc.com/) [✨ reverse md5 - lol 👍](https://md5.gromweb.com/)
 * __[asymetric](https://docs.google.com/document/d/1-pKVFwtjNtF10IR0laZevm557DNJkyaqnS0K7pTZkVA/edit?usp=sharing)__ 
 
-### Probabilités
-* __[]()__
-* __[]()__
+### Probabilités et Paradoxes Classiques
+* __[Bertrand Paradox - Cord in a Circle]()__
+* __[Monty Hall Problem]()__
 
 ### Intelligence Artificielle
 * __[machine learnia - cours video](https://www.youtube.com/@MachineLearnia)__
