@@ -117,7 +117,7 @@
 
 ### Epreuve bac spé NSI - sujet écrit de cette anée 2023
 
-* __[madagascar - cette année - jour 1]()__
+* __[madagascar - cette année - jour 1](https://github.com/Math13Net/terminale_NSI/blob/master/2023_madagascar_jour_1.pdf)__
 
 
 ------------------------------------------------------------------------------------------------
