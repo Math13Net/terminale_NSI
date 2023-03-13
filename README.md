@@ -115,6 +115,10 @@
 
 * __[sujet bac 2023 corrigé](https://glassus.github.io/terminale_nsi/T6_6_Epreuve_pratique/BNS_2023/)__
 
+### Epreuve bac spé NSI - sujet écrit de cette anée 2023
+
+* __[madagascar - cette année - jour 1]()__
+
 
 ------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------
