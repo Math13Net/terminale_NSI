@@ -119,6 +119,8 @@
 
 * __[centre etranger - cette année - jour 1](https://github.com/Math13Net/terminale_NSI/blob/master/2023_madagascar_jour_1.pdf)__
 * __[centre etranger - cette année - jour 2](https://github.com/Math13Net/terminale_NSI/blob/master/2023_ce_nsi.pdf)__
+* __[polynésie - cette année](https://github.com/Math13Net/terminale_NSI/blob/master/2023_nsi_polynesie.pdf)__
+
 
 
 
