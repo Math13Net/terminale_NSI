@@ -183,6 +183,7 @@
 
 ### 8.3. Site
  * [Site de David Roche](https://pixees.fr/informatiquelycee/)
+ * [Site de Alain Busser](https://alainbusser.frama.io/NSI-IREMI-974/)
  * [Math93.com NSI](https://www.math93.com/lycee/nsi-1ere.html)
  * [Débuter avec Python au lycée](http://python.lycee.free.fr/)
  * [Site d'Olivier Schmitt](http://olivierschmitt.fr/)
