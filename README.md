@@ -116,13 +116,16 @@
 * __[sujet bac 2023 corrigé](https://glassus.github.io/terminale_nsi/T6_6_Epreuve_pratique/BNS_2023/)__
 
 ### Epreuve bac spé NSI - sujet écrit de cette anée 2023
+une adresse intéressante : [ici](http://projet.eu.org/pedago/sin/NSI/sujets/)
 
 * __[sujet - centre etranger - cette année - jour 1](https://github.com/Math13Net/terminale_NSI/blob/master/2023_madagascar_jour_1.pdf)__
 * __[corrigé - centre etranger - cette année - jour 1](https://github.com/Math13Net/terminale_NSI/blob/master/2023-Centres%20Etrangers-J1-correction.pdf)__
 * __[sujet - centre etranger - cette année - jour 2](https://github.com/Math13Net/terminale_NSI/blob/master/2023_ce_nsi.pdf)__
 * __[corrigé - centre etranger - cette année - jour 2](https://github.com/Math13Net/terminale_NSI/blob/master/2023-Centres%20Etrangers-J2-correction.pdf)__
-* __[polynésie - cette année](https://github.com/Math13Net/terminale_NSI/blob/master/2023_nsi_polynesie.pdf)__
-
+* __[polynésie - cette année - jour 1](https://github.com/Math13Net/terminale_NSI/blob/master/2023_nsi_polynesie.pdf)__
+* __[corrigé - cette année](https://github.com/Math13Net/terminale_NSI/blob/master/2023_polynesie_jour-1_corr.pdf)__
+* __[polynésie - cette année - jour 2]()__
+* __[corrigé - cette année](https://github.com/Math13Net/terminale_NSI/blob/master/2023_polynesie_jour_2_corr.pdf)__
 
 
 
