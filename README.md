@@ -124,7 +124,7 @@ une adresse intéressante : [ici](http://projet.eu.org/pedago/sin/NSI/sujets/)
 * __[corrigé - centre etranger - cette année - jour 2](https://github.com/Math13Net/terminale_NSI/blob/master/2023-Centres%20Etrangers-J2-correction.pdf)__
 * __[polynésie - cette année - jour 1](https://github.com/Math13Net/terminale_NSI/blob/master/2023_nsi_polynesie.pdf)__
 * __[corrigé - cette année](https://github.com/Math13Net/terminale_NSI/blob/master/2023_polynesie_jour-1_corr.pdf)__
-* __[polynésie - cette année - jour 2]()__
+* __[polynésie - cette année - jour 2](https://github.com/Math13Net/terminale_NSI/blob/master/2023_nsi_polynesie_jour_2.pdf)__
 * __[corrigé - cette année](https://github.com/Math13Net/terminale_NSI/blob/master/2023_polynesie_jour_2_corr.pdf)__
 
 
