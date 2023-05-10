@@ -176,7 +176,7 @@ une adresse intéressante : [ici](http://projet.eu.org/pedago/sin/NSI/sujets/)
   * [Python beginner - john hunt](https://link.springer.com/book/10.1007/978-3-030-20290-3)
   * [Python advanced - john hunt](https://link.springer.com/book/10.1007/978-3-030-25943-3)
   * [Getting Started with SQL - thomas nield](http://goo.gl/z3zG54)
-  * [réseaux de neurones](https://exo7math.github.io/deepmath-exo7/)
+  * [deep learning](https://exo7math.github.io/deepmath-exo7/)
   * [ordinateur quantique](https://exo7math.github.io/quantum-exo7/)
   
 
