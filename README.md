@@ -34,7 +34,7 @@
 ### Chapitre 2 : [ALGORITHMIQUE](https://sites.google.com/view/nsi-algorithmique/accueil)
 #### :bird: [résumé - méthode de tri](https://github.com/Math13Net/terminale_NSI/blob/master/python_tri.pdf)
 ### Chapitre 3 : [BASE DE DONNEES](https://sites.google.com/view/nsi-bdd/accueil)
-* __[lassus]()__
+* __[glassus](https://glassus.github.io/terminale_nsi/T4_Bases_de_donnees/sommaire/)__
 * __[cours et ex de sql - thomas nield](https://github.com/Math13Net/nsi_sql)__
 ### Chapitre 4 : [ARCHITECTURES MATERIELLES, SYSTEME D'EXPLOITATION ET RESEAUX](https://sites.google.com/view/nsi-archi-syst-reseaux/asr)
 #### :white_check_mark: [python tips](https://book.pythontips.com/en/latest/index.html#)
