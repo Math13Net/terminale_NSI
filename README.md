@@ -36,6 +36,8 @@
 ### Chapitre 3 : [BASE DE DONNEES](https://sites.google.com/view/nsi-bdd/accueil)
 * __[glassus](https://glassus.github.io/terminale_nsi/T4_Bases_de_donnees/sommaire/)__
 * __[cours et ex de sql - thomas nield](https://github.com/Math13Net/nsi_sql)__
+* __[résumé requête SQL](https://github.com/Math13Net/terminale_NSI/blob/master/requ%C3%AAte%20SQL.pdf)__
+* __[ex requête SQL](https://github.com/Math13Net/terminale_NSI/blob/master/ex%20SQL.pdf)__
 ### Chapitre 4 : [ARCHITECTURES MATERIELLES, SYSTEME D'EXPLOITATION ET RESEAUX](https://sites.google.com/view/nsi-archi-syst-reseaux/asr)
 #### :white_check_mark: [python tips](https://book.pythontips.com/en/latest/index.html#)
 #### :snake: [built-in python function](https://docs.python.org/3/library/functions.html)
