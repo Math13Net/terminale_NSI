@@ -33,6 +33,7 @@
 ### Chapitre 1 : [PROGRAMMATION](https://sites.google.com/view/nsi-programmation/accueil)
 ### Chapitre 2 : [ALGORITHMIQUE](https://sites.google.com/view/nsi-algorithmique/accueil)
 #### :bird: [résumé - méthode de tri](https://github.com/Math13Net/terminale_NSI/blob/master/python_tri.pdf)
+#### :cat: [algorithme de Boyer-Moore simplifié ou Boyer-Moore-Horspool](https://youtu.be/9OYJ8L9R1F0?si=HusNuvKjggrHHttu)
 ### Chapitre 3 : [BASE DE DONNEES](https://sites.google.com/view/nsi-bdd/accueil)
 * __[glassus](https://glassus.github.io/terminale_nsi/T4_Bases_de_donnees/sommaire/)__
 * __[cours et ex de sql - thomas nield](https://github.com/Math13Net/nsi_sql)__
