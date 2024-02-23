@@ -90,6 +90,7 @@
 * [DS 2](https://github.com/Math13Net/terminale_NSI/blob/master/NSI_DS_02.pdf)
 * [DS 3](https://github.com/Math13Net/terminale_NSI/blob/master/NSI_DS_03.pdf)
 * [BB 1](https://github.com/Math13Net/terminale_NSI/blob/master/NSI_BB_1.pdf)
+* [BB 2](https://github.com/Math13Net/terminale_NSI/blob/master/NSI_DS_BB_2024.pdf)
 
 
 ------------------------------------------------------------------------------------------------
