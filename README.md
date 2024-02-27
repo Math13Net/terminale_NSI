@@ -109,16 +109,6 @@
 
 * __notation__ : écrit sur 15 pts + pratique sur 5 pts = note sur 20 
 
-* __[sujet/corrigé BAC NSI précédent : épreuve écrite](https://kxs.fr/sujets/terminale-ecrit)__
-
-* __[sujet/corrigé BAC NSI précédent : épreuve pratique](https://kxs.fr/sujets/terminale-pratique)__
-* __[sujet/corrigé BAC NSI précédent : épreuve pratique](https://pixees.fr/informatiquelycee/term/ep/index.html)__
-
-* __[sujet bac 2023](https://github.com/Math13Net/terminale_NSI/blob/master/ECE_NSI.zip)__
-
-* __[sujet bac 2023 corrigé](https://glassus.github.io/terminale_nsi/T6_6_Epreuve_pratique/BNS_2023/)__
-
-
 ### Epreuve bac spé NSI - sujet écrit de cette anée 2024
 
 * __[sujet zero a](https://github.com/Math13Net/terminale_NSI/blob/master/bac_nsi_2024_sujet0a.pdf)__
@@ -126,6 +116,10 @@
 * __[sujet zero b](https://github.com/Math13Net/terminale_NSI/blob/master/bac_nsi_2024_sujet0b.pdf)__
 * __[corrigé zero b](https://github.com/Math13Net/terminale_NSI/blob/master/NSI-2024-sujet_0-b-corr.pdf)__
 
+### Epreuve bac spé NSI - ancien sujet
+* __[sujet/corrigé BAC NSI précédent : épreuve écrite](https://kxs.fr/sujets/terminale-ecrit)__
+* __[sujet/corrigé BAC NSI précédent : épreuve pratique](https://kxs.fr/sujets/terminale-pratique)__
+* __[sujet/corrigé BAC NSI précédent : épreuve pratique](https://pixees.fr/informatiquelycee/term/ep/index.html)__
 
 ### Epreuve bac spé NSI - sujet écrit de cette anée 2023
 une adresse intéressante : [ici](http://projet.eu.org/pedago/sin/NSI/sujets/)
