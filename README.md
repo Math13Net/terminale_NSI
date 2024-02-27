@@ -118,6 +118,15 @@
 
 * __[sujet bac 2023 corrigé](https://glassus.github.io/terminale_nsi/T6_6_Epreuve_pratique/BNS_2023/)__
 
+
+### Epreuve bac spé NSI - sujet écrit de cette anée 2024
+
+* __[sujet zero a]()__
+* __[corrigé zero a]()__
+* __[sujet zero b]()__
+* __[corrigé zero b]()__
+
+
 ### Epreuve bac spé NSI - sujet écrit de cette anée 2023
 une adresse intéressante : [ici](http://projet.eu.org/pedago/sin/NSI/sujets/)
 
