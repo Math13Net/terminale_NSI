@@ -121,10 +121,10 @@
 
 ### Epreuve bac spé NSI - sujet écrit de cette anée 2024
 
-* __[sujet zero a]()__
-* __[corrigé zero a]()__
-* __[sujet zero b]()__
-* __[corrigé zero b]()__
+* __[sujet zero a](https://github.com/Math13Net/terminale_NSI/blob/master/bac_nsi_2024_sujet0a.pdf)__
+* __[corrigé zero a](https://github.com/Math13Net/terminale_NSI/blob/master/NSI-2024-sujet_0-a-corr.pdf)__
+* __[sujet zero b](https://github.com/Math13Net/terminale_NSI/blob/master/bac_nsi_2024_sujet0b.pdf)__
+* __[corrigé zero b](https://github.com/Math13Net/terminale_NSI/blob/master/NSI-2024-sujet_0-b-corr.pdf)__
 
 
 ### Epreuve bac spé NSI - sujet écrit de cette anée 2023
