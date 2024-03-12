@@ -70,7 +70,9 @@
 
 ### Chapitre 4 : [ARCHITECTURES MATERIELLES, SYSTEME D'EXPLOITATION ET RESEAUX](https://sites.google.com/view/nsi-archi-syst-reseaux/asr)
 
-* __[cryptographie](https://github.com/Math13Net/terminale_NSI/blob/master/cryptographie.ipynb)__
+* __[cryptographie - introduction](https://github.com/Math13Net/terminale_NSI/blob/master/cryptographie.ipynb)__
+* __[cryptographie - codage RSA - video](https://youtu.be/gBHNuFq5PpI?si=yIy7SvzJWEBWGrOj)__
+* __[cryptographie - codage RSA - TP](https://github.com/Math13Net/terminale_NSI/blob/master/C10_tp-rsa.py)__
 
 ------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------
