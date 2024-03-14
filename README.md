@@ -112,12 +112,15 @@
 
 * __notation__ : écrit sur 15 pts + pratique sur 5 pts = note sur 20 
 
-### Epreuve bac spé NSI - sujet écrit de cette anée 2024
+### Epreuve bac spé NSI - sujet écrit de cette année 2024
 
 * __[sujet zero a](https://github.com/Math13Net/terminale_NSI/blob/master/bac_nsi_2024_sujet0a.pdf)__
 * __[corrigé zero a](https://github.com/Math13Net/terminale_NSI/blob/master/NSI-2024-sujet_0-a-corr.pdf)__
 * __[sujet zero b](https://github.com/Math13Net/terminale_NSI/blob/master/bac_nsi_2024_sujet0b.pdf)__
 * __[corrigé zero b](https://github.com/Math13Net/terminale_NSI/blob/master/NSI-2024-sujet_0-b-corr.pdf)__
+
+### Epreuve bac spé NSI - épreuve pratique 2024
+* __[sujets officiels à préparer](https://github.com/Math13Net/terminale_NSI/blob/master/2024_epreuves_pratiques_nsi.zip)__
 
 ### Epreuve bac spé NSI - ancien sujet
 * __[sujet/corrigé BAC NSI précédent : épreuve écrite](https://kxs.fr/sujets/terminale-ecrit)__
