@@ -120,7 +120,7 @@
 * __[corrigé zero b](https://github.com/Math13Net/terminale_NSI/blob/master/NSI-2024-sujet_0-b-corr.pdf)__
 
 ### Epreuve bac spé NSI - épreuve pratique 2024
-* __[sujets officiels à préparer](https://github.com/Math13Net/terminale_NSI/blob/master/2024_epreuves_pratiques_nsi.zip](https://glassus.github.io/terminale_nsi/T6_6_Epreuve_pratique/BNS_2024/#__tabbed_1_1)__
+* __[sujets officiels à préparer](https://glassus.github.io/terminale_nsi/T6_6_Epreuve_pratique/BNS_2024/#__tabbed_1_1)__
 
 ### Epreuve bac spé NSI - ancien sujet
 * __[sujet/corrigé BAC NSI précédent : épreuve écrite](https://kxs.fr/sujets/terminale-ecrit)__
